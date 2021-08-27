@@ -1,0 +1,6 @@
+window:
+  rows: 40
+  columns: 120
+font:
+  family: 'JetBrains Mono'
+  size: 16
